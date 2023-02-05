@@ -1,0 +1,1 @@
+# KMEANS-from-scratch-on-MNIST-and-20NG-datasets
